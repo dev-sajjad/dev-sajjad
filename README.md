@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Redux, React Redux, Redux-toolkit**
 
-- 💬 Ask me about **Full Stack Development**
+- 💬 Ask me about **Full Stack Development and related technologies**
 
 - 📫 How to reach me **sajjadbmarpc@gmail.com**
 
