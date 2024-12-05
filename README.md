@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Sajjad Hussain</h1>
-<h3 align="center">Full Stack Web Application Developer</h3>
+<h3 align="center">Full Stack Software Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dev-sajjad&label=Profile%20views&color=0e75b6&style=flat" alt="dev-sajjad" /> </p>
 
-- 🌱 I’m currently learning **Advanced Vue.js 3 - Routing, State management, authentication & security.**
+- 🌱 I’m currently learning **Advanced Vue.js 3, WordPress Plugin Dev, MySQL Database Design.**
 
-- 💬 Ask me about **Full Stack Development and related technologies**
+- 💬 Ask me about **WordPress Plugin Development and related technologies**
 
 - 📫 How to reach me **sajjadbmarpc@gmail.com**
 
